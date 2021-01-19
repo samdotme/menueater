@@ -1,4 +1,6 @@
 version: "3.6"
 services:
   cli:
-    build: ./menueater.cli
+    build: 
+      context: .
+      dockerfile: ./MenuEaterCli.Dockerfile
