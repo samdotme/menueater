@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EaterCore", "EaterCore\Eate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EaterCore.Tests", "EaterCore.Tests\EaterCore.Tests.csproj", "{29EB908F-D460-40F1-9B11-1B14847763AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menueater.cli", "menueater.cli\menueater.cli.csproj", "{59AD9EBC-8037-4241-8E32-708B0407803F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{29EB908F-D460-40F1-9B11-1B14847763AC}.Release|x64.Build.0 = Release|Any CPU
 		{29EB908F-D460-40F1-9B11-1B14847763AC}.Release|x86.ActiveCfg = Release|Any CPU
 		{29EB908F-D460-40F1-9B11-1B14847763AC}.Release|x86.Build.0 = Release|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Debug|x64.Build.0 = Debug|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Debug|x86.Build.0 = Debug|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Release|x64.ActiveCfg = Release|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Release|x64.Build.0 = Release|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Release|x86.ActiveCfg = Release|Any CPU
+		{59AD9EBC-8037-4241-8E32-708B0407803F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
